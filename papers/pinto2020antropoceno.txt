@@ -1,0 +1,97 @@
+CITATION DETAILS
+------------------------------------------------------------------------
+Title             : O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE
+URL               : https://web.archive.org/web/20260306113729/https://revistas.ufpr.br/made/article/view/67833
+Retrieved         : 2026-10-20 21:34:40 -03:00
+Evidence PDF      : O Antropoceno e a mudança climática_ a percepção e a consciê_web_archive_org_2026-10-20_2134.pdf
+Checksum SHA-256  : 331ff756f3ce5fedc3003764044dae41715c6225ddbc73e484c3627cf2624bf4
+Type              : Zeitschriftenaufsatz
+Details from      : Verlagsangaben der Seite (citation_*)
+
+------------------------------------------------------------------------
+FOR AI TOOLS
+------------------------------------------------------------------------
+The same details are inside the PDF itself, in the document properties
+(author, title, keywords, DOI, journal) and as an XMP record. A language
+model or reference manager reads them straight from the file, without
+needing this text file. The RIS record is attached to the PDF as well.
+
+------------------------------------------------------------------------
+IN ENGLISH
+------------------------------------------------------------------------
+
+APA 7:
+Pinto, G. E., Pires, A., & Georges, M. R. R. (2020). O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE. Desenvolvimento e Meio Ambiente, 54. https://doi.org/10.5380/dma.v54i0.67833
+
+MLA 9:
+Pinto, Geraldo Estevo, et al. "O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE." Desenvolvimento e Meio Ambiente, vol. 54, 2020. https://doi.org/10.5380/dma.v54i0.67833 Accessed 2026-10-20.
+
+Chicago:
+Pinto, Geraldo Estevo, André Pires, and Marcos Ricardo Rosa Georges. 2020. "O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE." Desenvolvimento e Meio Ambiente 54. https://doi.org/10.5380/dma.v54i0.67833 (accessed 2026-10-20).
+
+Harvard:
+Pinto, G. E., Pires, A. and Georges, M. R. R. (2020) O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE. Desenvolvimento e Meio Ambiente, 54. Available at: https://doi.org/10.5380/dma.v54i0.67833 (Accessed: 2026-10-20).
+
+DIN 1505-2:
+PINTO, Geraldo Estevo; PIRES, André; GEORGES, Marcos Ricardo Rosa. O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE. In: Desenvolvimento e Meio Ambiente. vol. 54, 2020. URL: https://doi.org/10.5380/dma.v54i0.67833 – Retrieved 2026-10-20.
+
+ISO 690:
+PINTO, Geraldo Estevo; PIRES, André; GEORGES, Marcos Ricardo Rosa. O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE. [Online]. In: Desenvolvimento e Meio Ambiente. 2020. ISSN 2176-9109. [viewed 2026-10-20]. Available from: https://web.archive.org/web/20260306113729/https://revistas.ufpr.br/made/article/view/67833
+
+------------------------------------------------------------------------
+BIBTEX
+------------------------------------------------------------------------
+@article{pinto2020o,
+  author = {Pinto, Geraldo Estevo and Pires, André and Georges, Marcos Ricardo Rosa},
+  title = {O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE},
+  year = {2020},
+  journal = {Desenvolvimento e Meio Ambiente},
+  volume = {54},
+  doi = {10.5380/dma.v54i0.67833},
+  issn = {2176-9109},
+  url = {https://web.archive.org/web/20260306113729/https://revistas.ufpr.br/made/article/view/67833},
+  urldate = {2026-10-21},
+  note = {Bildschirmaufnahme, kein Verlagsdokument}
+}
+
+------------------------------------------------------------------------
+RIS RECORD (for Zotero, Citavi, EndNote)
+------------------------------------------------------------------------
+Copy this block into an empty file with the extension .ris,
+then import it by double-click. It is also attached to the PDF.
+
+TY  - JOUR
+AU  - Geraldo Estevo Pinto
+AU  - André Pires
+AU  - Marcos Ricardo Rosa Georges
+TI  - O Antropoceno e a mudança climática: a percepção e a consciência dos brasileiros segundo a pesquisa IBOPE
+PY  - 2020
+DA  - 2020/07/30
+JO  - Desenvolvimento e Meio Ambiente
+VL  - 54
+DO  - 10.5380/dma.v54i0.67833
+SN  - 2176-9109
+LA  - pt
+UR  - https://web.archive.org/web/20260306113729/https://revistas.ufpr.br/made/article/view/67833
+Y2  - 2026/10/20/21:34
+L1  - https://revistas.ufpr.br/made/article/download/67833/41304
+C1  - Copyright (c) 2020 Desenvolvimento e Meio Ambiente
+N1  - Angaben aus: Verlagsangaben der Seite (citation_*). Bildschirmaufnahme, kein Verlagsdokument. Zeitzone des Geraets: America/Sao_Paulo.
+ER  -
+
+------------------------------------------------------------------------
+AUTHORS AS THE PAGE NAMES THEM
+------------------------------------------------------------------------
+Splitting into first and last name follows the usual assumption
+(last word = surname). With name particles and East Asian names it can be
+wrong — the raw form is listed here:
+
+  Geraldo Estevo Pinto
+  André Pires
+  Marcos Ricardo Rosa Georges
+
+------------------------------------------------------------------------
+Produced by Full Page PDF Snap. The details come from the page itself,
+not from a bibliographic database. The evidence is a screen capture,
+not a publisher's document.
+Version 2.56.0
